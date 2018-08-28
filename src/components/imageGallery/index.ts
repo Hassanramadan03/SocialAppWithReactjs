@@ -1,0 +1,2 @@
+import ImageGalleryComponent from 'components/imageGallery/ImageGalleryComponent'
+export default ImageGalleryComponent

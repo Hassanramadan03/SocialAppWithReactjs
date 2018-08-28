@@ -1,0 +1,2 @@
+import ShareDialogComponent from 'components/shareDialog/ShareDialogComponent'
+export default ShareDialogComponent

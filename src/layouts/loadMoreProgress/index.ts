@@ -1,0 +1,2 @@
+import LoadMoreProgressComponent from 'layouts/loadMoreProgress/LoadMoreProgressComponent'
+export default LoadMoreProgressComponent

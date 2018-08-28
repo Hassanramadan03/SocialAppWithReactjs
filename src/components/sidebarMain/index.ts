@@ -1,0 +1,2 @@
+import SidebarMainComponent from 'components/sidebarMain/SidebarMainComponent'
+export default SidebarMainComponent

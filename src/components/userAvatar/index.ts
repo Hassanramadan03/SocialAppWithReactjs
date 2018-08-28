@@ -1,0 +1,2 @@
+import UserAvatarComponent from 'components/userAvatar/UserAvatarComponent'
+export default UserAvatarComponent

@@ -1,0 +1,2 @@
+import EditProfileComponent from 'components/editProfile/EditProfileComponent'
+export default EditProfileComponent

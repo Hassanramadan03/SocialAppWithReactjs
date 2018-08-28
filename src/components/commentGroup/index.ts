@@ -1,0 +1,2 @@
+import CommentGroupComponent from 'components/commentGroup/CommentGroupComponent'
+export default CommentGroupComponent

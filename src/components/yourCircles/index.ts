@@ -1,0 +1,2 @@
+import YourCirclesComponent from 'components/yourCircles/YourCirclesComponent'
+export default YourCirclesComponent

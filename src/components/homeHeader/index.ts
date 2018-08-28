@@ -1,0 +1,2 @@
+import HomeHeaderComponent from 'components/homeHeader/HomeHeaderComponent'
+export default HomeHeaderComponent

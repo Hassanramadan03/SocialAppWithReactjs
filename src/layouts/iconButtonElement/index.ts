@@ -1,0 +1,2 @@
+import IconButtonElementComponent from 'layouts/iconButtonElement/IconButtonElementComponent'
+export default IconButtonElementComponent

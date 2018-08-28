@@ -1,0 +1,2 @@
+import NotifyItemComponent from 'components/notifyItem/NotifyItemComponent'
+export default NotifyItemComponent

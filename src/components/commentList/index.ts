@@ -1,0 +1,2 @@
+import CommentListComponent from 'components/commentList/CommentListComponent'
+export default CommentListComponent

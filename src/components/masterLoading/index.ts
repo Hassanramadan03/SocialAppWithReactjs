@@ -1,0 +1,2 @@
+import MasterLoadingComponent from 'components/masterLoading/MasterLoadingComponent'
+export default MasterLoadingComponent

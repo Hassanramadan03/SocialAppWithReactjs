@@ -1,0 +1,2 @@
+import ProfileHeaderComponent from 'components/profileHeader/ProfileHeaderComponent'
+export default ProfileHeaderComponent

@@ -1,0 +1,2 @@
+import FindPeopleComponent from 'components/findPeople/FindPeopleComponent'
+export default FindPeopleComponent

@@ -1,0 +1,2 @@
+import DialogTitleComponent from 'layouts/dialogTitle/DialogTitleComponent'
+export default DialogTitleComponent
